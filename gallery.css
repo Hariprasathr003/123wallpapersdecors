@@ -51,12 +51,12 @@
   
   @media (max-width: 768px) {
     .navbar-brand img {
-      width: 80px; 
+      width: 140px; 
     }
   
     .nav-link {
       font-size: 0.9rem; 
-      padding: 8px 10px; 
+  
     }
   
     .navbar-nav {
@@ -65,7 +65,7 @@
   
     .navbar-collapse {
       background: linear-gradient(45deg, #000428, #004e92); 
-      padding: 10px; 
+     
     }
   }
 

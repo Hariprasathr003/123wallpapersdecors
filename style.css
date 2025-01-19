@@ -2,6 +2,7 @@
 body {
   font-family: Arial, sans-serif;
 }
+
   /* Navbar Styling */
   .navbar {
     background: linear-gradient(45deg, #000428, #004e92);
@@ -59,7 +60,7 @@ body {
   
     .nav-link {
       font-size: 0.9rem; 
-      text-align: center; 
+  
     }
   
     .navbar-nav {
@@ -68,6 +69,7 @@ body {
   
     .navbar-collapse {
       background: linear-gradient(45deg, #000428, #004e92); 
+     
     }
   }
 

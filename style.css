@@ -2,7 +2,6 @@
 body {
   font-family: Arial, sans-serif;
 }
-
   /* Navbar Styling */
   .navbar {
     background: linear-gradient(45deg, #000428, #004e92);
@@ -55,7 +54,7 @@ body {
   
   @media (max-width: 768px) {
     .navbar-brand img {
-      width: 140px; 
+      width: 150px; 
     }
   
     .nav-link {
@@ -72,6 +71,7 @@ body {
      
     }
   }
+
 
 
   /* About Us Styling */
